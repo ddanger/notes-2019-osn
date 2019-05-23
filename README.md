@@ -8,7 +8,7 @@
     </a>
 </p>
 
-## Summary
+## tl;dr
 - Before writing code, consider **Market Risk** -- the risk that **nobody. even. cares!**
 - Checkout [Percy.io](https://percy.io)($) for visual testing (visual match)
 - Use `eslint-plugin-react-hooks`
