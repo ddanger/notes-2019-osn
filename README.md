@@ -16,14 +16,16 @@
 - GitHub invests in sticker design. Very smart.
 
 ## Sessions
-### Testing
+### Testing Lessons from Failed Projects
+#### Todd Gardner
 - Market risk (the risk that nobody wants to use the expensive software you build) is a thing.
   - Need to test all ideas against real user behaviour _before_ investing $$$$$ in development
   - Consider the following to guage market interest: Landing pages, beta launches, small realeases, etc.
 - Test the scariest thing first. This is the thing that may doom the project in the end. Deal with it ASAP.
 - Don't test to achieve metrics. The metric is your own confidence. It cannot be measured.
 
-### Cypress
+### Cypress: Where Automated Web UI Testing Isn't Just for QA Anymore
+#### Justin James
 - Devs can do cypress UI testing.
 - What does QA do?
   - Stress, Security, Accessibility, Using the UI in unexpected way,
@@ -32,7 +34,8 @@
 - Accessibility
   -`cy.injectAxe()`, `cy.checkA11y()`
 
-### React Hooks
+### The Power of Hooks in React
+#### Aaron Ackerman
 - Late 2015: Stateless Functional Components
 - Feb 2019: Reactv16.8.0 Hooks
 - useState
@@ -42,11 +45,13 @@
 - useRef
 - Use eslint-plugin-react-hooks
 
-### Vue
+### What's New With Vue?
+#### Casie Siekman
 - Vue 3:
   - word on the street is that Vuex mutations are going away? Maybe not in Vue 3 but in Vuex 4
 
-## Next.js
+### Practical Single Page Apps with SSR Using Next.js
+#### Matt Ruby
 - React SSR framework
 - Awesome, but still, running React on both server and client is no picnic.
 
