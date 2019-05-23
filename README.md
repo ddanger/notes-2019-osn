@@ -61,7 +61,8 @@ was a GitHub statue of liberty. Shown above.
     <a href="https://daviddangerfield.smugmug.com/Things/i-XJ5XM4P/A">
         <img
             alt="GitHub logo stickers"
-            src="https://photos.smugmug.com/Things/i-XJ5XM4P/0/42a5a842/S/IMG_20190522_150421~2-S.jpg">
+            src="https://photos.smugmug.com/Things/i-XJ5XM4P/1/fc84f939/S/IMG_20190522_150421~2-S.jpg">
+        
     </a>
 </p>
 
