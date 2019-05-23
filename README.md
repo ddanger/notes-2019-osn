@@ -48,7 +48,7 @@
 
 ## Next.js
 - React SSR framework
-- Awesome, but lots of gotchas. Running React on both server and client is no picnic.
+- Awesome, but still, running React on both server and client is no picnic.
 
 ## Sponsors
 ### GitHub table
